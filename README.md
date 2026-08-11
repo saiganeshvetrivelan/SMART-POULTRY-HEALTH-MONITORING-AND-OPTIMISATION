@@ -1,6 +1,13 @@
-# Smart Biosecurity Portal
+TEAM MEMBERS
+1.SRINATH S
+2.SHANMUGARAJA D
+3.THENAPPAN S
+4.SAI GANESH S V
+5.SUNDARAM S S 
+6.SANJAY A
+7.ANDREW MATHEWS
+8.SAVARI SANTHOSH A
 
-**SIH25006** — Full-stack IoT biosecurity dashboard for poultry/pig farm monitoring.
 
 Real-time sensor data, multi-role auth, multi-language UI, and community outbreak warnings — built with React + Supabase.
 
@@ -124,4 +131,3 @@ python src/agent.py
 
 ---
 
-*Smart Biosecurity Portal · SIH25006 · Built for Smart India Hackathon 2025*
